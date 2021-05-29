@@ -242,6 +242,7 @@ header .intro-text {
 /* About Section */
 #about {
 	padding: 100px 0;
+	height: 100vh;
 }
 #about h3 {
 	font-size: 22px;
@@ -287,6 +288,10 @@ header .intro-text {
 	margin: 30px 0;
 }
 /* Services Section */
+.service-btn{
+   background: transparent;
+   border: 1px solid #fff;
+}
 #services {
 	padding: 100px 0;
 	background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
@@ -330,14 +335,14 @@ header .intro-text {
 	margin-bottom: 40px;
 }
 /* Portfolio Section */
-#portfolio {
+#Rabbani {
 	padding: 100px 0;
 }
-.portfolio-item {
+.Rabbani-item {
 	margin: 1px -15px 0 -14px;
 	padding: 0;
 }
-.portfolio-item .hover-bg {
+.Rabbani-item .hover-bg {
 	overflow: hidden;
 	position: relative;
 	margin: 0;
